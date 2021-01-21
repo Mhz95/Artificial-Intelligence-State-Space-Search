@@ -58,7 +58,7 @@ After choosing the search algorithm from the GUI, it will be shown in the maze f
 [1] [Wikipedia - State Space Search](https://en.wikipedia.org/wiki/State_space_search)
 
 > Developed as part of a Computer Science MSc course   
-> Supervisor: Dr. Mohammad R. Alsulmi
-> Course: CSC562: Artificial Intelligence 
-> King Saud university   
+> Supervisor: Dr. Mohammad R. Alsulmi   
+> Course: CSC562: Artificial Intelligence   
+> King Saud university    
 > February 2020
